@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 
-$config['base_url'] = 'http://' . $_SERVER['HTTP_HOST'] . '/soal6';
+$config['base_url'] = 'http://' . $_SERVER['HTTP_HOST'] . '/arkademy/soal6';
 $config['server_root'] = $_SERVER['DOCUMENT_ROOT'];
 
 /*
