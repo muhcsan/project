@@ -18,7 +18,7 @@
 	} 
 
 	/**
-	 * 
+	 *tambah
 	 */
 	class skills{
 		var $skill_name;
