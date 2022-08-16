@@ -6,6 +6,7 @@
 	    var $year_in; 
 	    var $year_out; 
 	    var $major; 
+	    var $major2; 
 	      
 	    function __construct( $name, $year_in, $year_out, $major )  
 	    { 
